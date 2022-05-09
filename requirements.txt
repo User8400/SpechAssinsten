@@ -3,3 +3,4 @@ pyaudio
 gtts
 pyttsx3
 playsound
+pdfplumber
