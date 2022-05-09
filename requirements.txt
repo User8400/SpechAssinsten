@@ -1,2 +1,5 @@
 SpeechRecognition
 pyaudio
+gtts
+pyttsx3
+playsound
